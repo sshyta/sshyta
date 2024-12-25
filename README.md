@@ -1,4 +1,4 @@
-[!Header]![logo-puraenvidia](https://github.com/user-attachments/assets/e6bdbf11-2e22-46fa-ab56-de9faeffe350)
+![logo-puraenvidia](https://github.com/user-attachments/assets/e6bdbf11-2e22-46fa-ab56-de9faeffe350)
 
 
 
