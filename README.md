@@ -30,7 +30,6 @@ const misha = {
 
 - 🔭 Currently working on **[NyxMetrics](https://github.com/sshyta/NyxMetrics)** - Advanced analytics platform
 - 🌱 Learning **React, TypeScript, and Modern Frontend Frameworks**
-- 👯 Looking to collaborate on **Open Source Projects** and **SAP Solutions**
 - 💬 Ask me about **SAP UI5, JavaScript, Frontend Development**
 - 📫 Reach me at **musa62298@gmail.com**
 - ⚡ Fun fact: **Maybe on earth, maybe in the future** 🌌
