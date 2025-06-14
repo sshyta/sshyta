@@ -2,11 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hi+there!+I'm+Misha+%F0%9F%91%8B;Frontend+Developer+%7C+SAP+Specialist;Building+amazing+web+experiences" alt="Typing SVG" />
 </div>
 
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
-  Frontend Developer & SAP Expert
-</h1>
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=sshyta&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/sshyta?label=Followers&style=social" alt="GitHub followers" />
