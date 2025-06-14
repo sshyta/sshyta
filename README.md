@@ -82,19 +82,6 @@ const misha = {
 
 ---
 
-## 🎯 Featured Projects
-
-<div align="center">
-
-### 🌟 [NyxMetrics](https://github.com/sshyta/NyxMetrics)
-*Advanced Analytics Platform*
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sshyta&repo=NyxMetrics&theme=tokyonight)](https://github.com/sshyta/NyxMetrics)
-
-</div>
-
----
-
 ## 🌐 Connect with Me
 
 <div align="center">
